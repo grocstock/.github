@@ -1,5 +1,4 @@
-![Grocstock](https://grocstock.com.au/logo.png)
-
+![Grocstock](https://grocstock.com.au/logo.svg)
 ## What is GrocStock?
 GrocStock can help you organise, search and categorise your household items. You can create your house, rooms in your house and even compartments in your room and add your household items to it. This makes it easier for you to search your items, they will never go missing, again. 
 The app also can be used to add you refrigerator and pantry items, helping you to track their expiry, quantity and much more. Let the food and leftover never goes to waste. 
