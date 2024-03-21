@@ -19,7 +19,8 @@ Never lose it, again.
 
 | Application | Status |
 | ----------- | ----------- |
-| Grocstock UI | [![Netlify Status](https://api.netlify.com/api/v1/badges/16e0e9e9-bc6f-45ad-9885-6c58896c603e/deploy-status)](https://app.netlify.com/sites/grocstock-ui/deploys) |
+| GrocStock UI | [![Netlify Status](https://api.netlify.com/api/v1/badges/16e0e9e9-bc6f-45ad-9885-6c58896c603e/deploy-status)](https://app.netlify.com/sites/grocstock-ui/deploys) |
+| GrocStock Blog | [![Netlify Status](https://api.netlify.com/api/v1/badges/ee729d0f-d9c5-4f69-8d4f-56734c50ea33/deploy-status)](https://app.netlify.com/sites/grocstock-blog/deploys) |
 
 ## Contact us
 Please feel free to [contact us](https://www.grocstock.com.au/contact)
