@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @grocstock
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Grocstock](https://grocstock.com.au/logo.png)
 
-<!---
-grocstock/grocstock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What is GrocStock?
+GrocStock can help you organise, search and categorise your household items. You can create your house, rooms in your house and even compartments in your room and add your household items to it. This makes it easier for you to search your items, they will never go missing, again. 
+The app also can be used to add you refrigerator and pantry items, helping you to track their expiry, quantity and much more. Let the food and leftover never goes to waste. 
+Organising can be real quick with handy QR codes and NFC tags.
+These are just a tip of the iceberg, GrocStock can help you in much more areas and we will let you discover it yourself. 
+Never lose it, again.
+
+## Application
+| Application | Link |
+| ----------- | ----------- |
+| Web | [Visit now](https://www.grocstock.com.au) |
+| Android app | [Download now](https://play.google.com/store/apps/details?id=com.stirrupweb.grocstock&pli=1) |
+| iOS app | [Download now](https://apps.apple.com/us/app/grocstock/id6449409672) |
+
+
+## Deployments
+
+| Application | Status |
+| ----------- | ----------- |
+| Grocstock UI | [![Netlify Status](https://api.netlify.com/api/v1/badges/16e0e9e9-bc6f-45ad-9885-6c58896c603e/deploy-status)](https://app.netlify.com/sites/grocstock-ui/deploys) |
+
+## Contact us
+Please feel free to [contact us](https://www.grocstock.com.au/contact)
+
+## Thank you
+Made with ❤️ by GrocStock© team
+© 2024 GrocStock Pvt Ltd. All rights reserved. All other logos and trademarks are the property of their respective owners.
