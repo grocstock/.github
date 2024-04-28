@@ -22,8 +22,12 @@ Never lose it, again.
 | GrocStock UI | [![Netlify Status](https://api.netlify.com/api/v1/badges/16e0e9e9-bc6f-45ad-9885-6c58896c603e/deploy-status)](https://app.netlify.com/sites/grocstock-ui/deploys) | [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/wv1b.svg)](https://uptime.betterstack.com/?utm_source=status_badge) |
 | GrocStock Blog | [![Netlify Status](https://api.netlify.com/api/v1/badges/ee729d0f-d9c5-4f69-8d4f-56734c50ea33/deploy-status)](https://app.netlify.com/sites/grocstock-blog/deploys) | [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/13z4r.svg)](https://uptime.betterstack.com/?utm_source=status_badge) |
 | GrocStock API | - | [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/15gt4.svg)](https://uptime.betterstack.com/?utm_source=status_badge) |
+
 ## Contact us
 Please feel free to [contact us](https://www.grocstock.com.au/contact)
+
+## Feedback
+If you have any feedback/feature request, get in touch with us. [feedback](https://www.grocstock.com.au/feedback)
 
 ## Thank you
 Made with ❤️ by GrocStock© team
