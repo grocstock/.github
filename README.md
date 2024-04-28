@@ -10,6 +10,7 @@ Never lose it, again.
 | Application | Link |
 | ----------- | ----------- |
 | Web | [Visit now](https://www.grocstock.com.au) |
+| Blog| [Visit now](https://www.blogs.grocstock.com.au) |
 | Android app | [Download now](https://play.google.com/store/apps/details?id=com.stirrupweb.grocstock&pli=1) |
 | iOS app | [Download now](https://apps.apple.com/us/app/grocstock/id6449409672) |
 
