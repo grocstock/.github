@@ -11,7 +11,7 @@ Never lose it, again.
 | ----------- | ----------- |
 | Web | [Visit now](https://www.grocstock.com.au) |
 | Blog| [Visit now](https://blogs.grocstock.com.au) |
-| API| [Visit now]([https://blogs.grocstock.com.au](https://api.grocstock.com.au/health)) |
+| API| [Visit now](https://api.grocstock.com.au/health) |
 | Android app | [Download now](https://play.google.com/store/apps/details?id=com.stirrupweb.grocstock&pli=1) |
 | iOS app | [Download now](https://apps.apple.com/us/app/grocstock/id6449409672) |
 
