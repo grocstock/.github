@@ -11,6 +11,7 @@ Never lose it, again.
 | ----------- | ----------- |
 | Web | [Visit now](https://www.grocstock.com.au) |
 | Blog| [Visit now](https://blogs.grocstock.com.au) |
+| API| [Visit now]([https://blogs.grocstock.com.au](https://api.grocstock.com.au/health)) |
 | Android app | [Download now](https://play.google.com/store/apps/details?id=com.stirrupweb.grocstock&pli=1) |
 | iOS app | [Download now](https://apps.apple.com/us/app/grocstock/id6449409672) |
 
@@ -22,6 +23,10 @@ Never lose it, again.
 | GrocStock UI | [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/wv1b.svg)](https://uptime.betterstack.com/?utm_source=status_badge) |
 | GrocStock Blog | [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/13z4r.svg)](https://uptime.betterstack.com/?utm_source=status_badge) |
 | GrocStock API | [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/15gt4.svg)](https://uptime.betterstack.com/?utm_source=status_badge) |
+
+## Service status
+https://status.grocstock.com.au/
+
 
 ## Contact us
 Please feel free to [contact us](https://www.grocstock.com.au/contact)
