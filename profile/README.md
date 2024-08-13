@@ -4,7 +4,7 @@ GrocStock can help you organise, search and categorise your household items. You
 The app also can be used to add you refrigerator and pantry items, helping you to track their expiry, quantity and much more. Let the food and leftover never goes to waste. 
 Organising can be real quick with handy QR codes and NFC tags.
 These are just a tip of the iceberg, GrocStock can help you in much more areas and we will let you discover it yourself. 
-Never lose it, again.
+Organise anything, anywhere.
 
 ## Application
 | Application | Link |
