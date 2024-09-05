@@ -15,6 +15,7 @@ Organise anything, anywhere.
 | ----------- | ----------- |
 | Web | [Visit now](https://www.grocstock.com.au) |
 | Blog| [Visit now](https://blogs.grocstock.com.au) |
+| Store| [Visit now](https://store.grocstock.com.au) |
 | API| [Visit now](https://api.grocstock.com.au/health) |
 | Android app | [Download now](https://play.google.com/store/apps/details?id=com.stirrupweb.grocstock&pli=1) |
 | iOS app | [Download now](https://apps.apple.com/us/app/grocstock/id6449409672) |
@@ -26,6 +27,7 @@ Organise anything, anywhere.
 | ----------- | ----------- |
 | GrocStock UI | [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/wv1b.svg)](https://uptime.betterstack.com/?utm_source=status_badge) |
 | GrocStock Blog | [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/13z4r.svg)](https://uptime.betterstack.com/?utm_source=status_badge) |
+| GrocStock Store | [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/13z4r.svg)](https://uptime.betterstack.com/?utm_source=status_badge) |
 | GrocStock API | [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/15gt4.svg)](https://uptime.betterstack.com/?utm_source=status_badge) |
 
 ## Service status
