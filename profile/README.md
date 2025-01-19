@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://grocstock.com.au/assets/images/logo.svg" width="500" title="GrocStock logo">
+</p>
 
 ## What is GrocStock?
 GrocStock can help you organise, search and categorise your household items. You can create your house, rooms in your house and even compartments in your room and add your household items to it. This makes it easier for you to search your items, they will never go missing, again. 
