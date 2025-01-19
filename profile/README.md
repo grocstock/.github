@@ -30,7 +30,10 @@ Organise anything, anywhere.
 | GrocStock API | [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/15gt4.svg)](https://uptime.betterstack.com/?utm_source=status_badge) | ![workflow](https://github.com/grocstock/grocstock-api/actions/workflows/main.yaml/badge.svg) |
 
 ## Service status
-https://status.grocstock.com.au/
+[View current status](https://status.grocstock.com.au)
+
+## Alerts
+[View all alerts](https://www.grocstock.com.au/alerts)
 
 
 ## Contact us
