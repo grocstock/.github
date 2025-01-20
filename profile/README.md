@@ -3,10 +3,13 @@
 </p>
 
 ## What is GrocStock?
-GrocStock can help you organise, search and categorise your household items. You can create your house, rooms in your house and even compartments in your room and add your household items to it. This makes it easier for you to search your items, they will never go missing, again. 
-The app also can be used to add you refrigerator and pantry items, helping you to track their expiry, quantity and much more. Let the food and leftover never goes to waste. 
-Organising can be real quick with handy QR codes and NFC tags.
-These are just a tip of the iceberg, GrocStock can help you in much more areas and we will let you discover it yourself. 
+At GrocStock, we're flipping the script on property and household management with our AI-powered platform. Say goodbye to chaos and hello to streamlined, smarter living! Whether you're juggling multiple properties or just trying to keep your pantry stocked, we've got the tools to make it easy, efficient, and even a little fun.
+
+Property pros, get ready to ditch those late-night support calls! Our platform lets your guests preview the house and find what they need—no more "Where’s the remote?" moments. It’s all about smooth, self-service experiences that keep guests happy and your life stress-free.
+
+For the homebodies, GrocStock is your new best friend. Track your essentials, reduce waste, and never run out of your favorite snacks again. With handy QR codes and NFC tags, staying organized is as easy as a quick scan.
+
+Join the GrocStock family today and turn your home or property into a well-oiled, eco-friendly machine. Smarter management starts here!
 Organise anything, anywhere.
 
 ## Application
