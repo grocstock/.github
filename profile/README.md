@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://grocstock.com.au/assets/images/logo.svg?q=1" width="500" title="GrocStock logo">
+  <img src="https://grocstock.com.au/assets/images/logo.svg" width="500" title="GrocStock logo">
 </p>
 
 ## What is GrocStock?
