@@ -47,4 +47,4 @@ If you have any feedback/feature request, get in touch with us. [feedback](https
 
 ## Thank you
 Made with ❤️ by GrocStock© team
-© 2024 GrocStock Pvt Ltd. All rights reserved. All other logos and trademarks are the property of their respective owners.
+© 2025 GrocStock Pvt Ltd. All rights reserved. All other logos and trademarks are the property of their respective owners.
