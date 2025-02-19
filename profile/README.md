@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://grocstock.com.au/assets/images/logo.svg?q=1" width="500" title="GrocStock logo">
+  <img src="https://grocstock.com/assets/images/logo.svg" width="500" title="GrocStock logo">
 </p>
 
 ## What is GrocStock?
@@ -15,10 +15,11 @@ Organise anything, anywhere.
 ## Application
 | Application | Link |
 | ----------- | ----------- |
-| Web | [Visit now](https://www.grocstock.com.au) |
-| Blog| [Visit now](https://blogs.grocstock.com.au) |
-| Store| [Visit now](https://store.grocstock.com.au) |
-| API| [Visit now](https://api.grocstock.com.au/health) |
+| Home page | [Visit now](https://www.grocstock.com) |
+| Web | [Visit now](https://www.app.grocstock.com) |
+| Blog| [Visit now](https://blogs.grocstock.com) |
+| Store| [Visit now](https://store.grocstock.com) |
+| API| [Visit now](https://api.grocstock.com/health) |
 | Android app | [Download now](https://play.google.com/store/apps/details?id=com.stirrupweb.grocstock&pli=1) |
 | iOS app | [Download now](https://apps.apple.com/us/app/grocstock/id6449409672) |
 
@@ -34,17 +35,17 @@ Organise anything, anywhere.
 | GrocStock API | [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/15gt4.svg)](https://uptime.betterstack.com/?utm_source=status_badge) | ![workflow](https://github.com/grocstock/grocstock-api/actions/workflows/main.yaml/badge.svg) |
 
 ## Service status
-[View current status](https://status.grocstock.com.au)
+[View current status](https://status.grocstock.com)
 
 ## Alerts
-[View all alerts](https://www.grocstock.com.au/alerts)
+[View all alerts](https://www.grocstock.com/alerts)
 
 
 ## Contact us
-Please feel free to [contact us](https://www.grocstock.com.au/contact)
+Please feel free to [contact us](https://www.grocstock.com/contact)
 
 ## Feedback
-If you have any feedback/feature request, get in touch with us. [feedback](https://www.grocstock.com.au/feedback)
+If you have any feedback/feature request, get in touch with us. [feedback](https://www.grocstock.com/feedback)
 
 ## Thank you
 Made with ❤️ by GrocStock© team
