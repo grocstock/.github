@@ -28,6 +28,7 @@ Organise anything, anywhere.
 | Application | Monitor | Build |
 | ----------- | ----------- | ----------- |
 | GrocStock UI | [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/wv1b.svg)](https://uptime.betterstack.com/?utm_source=status_badge) | ![workflow](https://github.com/grocstock/grocstock-ui/actions/workflows/main.yaml/badge.svg) |
+| GrocStock Web | [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/1slpb.svg)](https://uptime.betterstack.com/?utm_source=status_badge) | ![workflow](https://github.com/grocstock/grocstock-ui/actions/workflows/main.yaml/badge.svg) |
 | GrocStock Blog | [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/13z4r.svg)](https://uptime.betterstack.com/?utm_source=status_badge) | ![workflow](https://github.com/grocstock/grocstock-blog/actions/workflows/main.yaml/badge.svg) |
 | GrocStock Store | [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/13z4r.svg)](https://uptime.betterstack.com/?utm_source=status_badge) | ![workflow](https://github.com/grocstock/grocstock-store/actions/workflows/main.yaml/badge.svg) |
 | GrocStock API | [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/15gt4.svg)](https://uptime.betterstack.com/?utm_source=status_badge) | ![workflow](https://github.com/grocstock/grocstock-api/actions/workflows/main.yaml/badge.svg) |
