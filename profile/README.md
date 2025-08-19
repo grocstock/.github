@@ -34,6 +34,25 @@ Organise anything, anywhere.
 | GrocStock Store | [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/13z4r.svg)](https://uptime.betterstack.com/?utm_source=status_badge) | ![workflow](https://github.com/grocstock/grocstock-store/actions/workflows/main.yaml/badge.svg) |
 | GrocStock API | [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/15gt4.svg)](https://uptime.betterstack.com/?utm_source=status_badge) | ![workflow](https://github.com/grocstock/grocstock-api/actions/workflows/main.yaml/badge.svg) |
 
+
+## Actions
+
+| Application | Action to release |
+| ----------- |----------- |
+| Home page | [Deploy action](https://github.com/grocstock/grocstock-ui/actions/workflows/main.yaml) |
+| Blog| [Deploy action](https://github.com/grocstock/grocstock-blog/actions/workflows/main.yaml) |
+| Web | [Deploy action](https://github.com/grocstock/grocstock-web/actions/workflows/main.yaml) |
+| API| [Deploy action](https://github.com/grocstock/grocstock-api/actions/workflows/main.yaml) |
+| Mongo| [Deploy action](https://github.com/grocstock/grocstock-mongo/actions/workflows/main.yaml) |
+| Types| [Deploy action](https://github.com/grocstock/grocstock-types/actions/workflows/main.yaml) |
+| Common| [Deploy action](https://github.com/grocstock/grocstock-common/actions/workflows/main.yaml) |
+| Integration| [Deploy action](https://github.com/grocstock/grocstock-integration/actions/workflows/main.yaml) |
+| Infra| [Deploy action](https://github.com/grocstock/grocstock-infra/actions) |
+| Admin UI | [Deploy action](https://github.com/grocstock/grocstock-admin-ui/actions/workflows/main.yaml) |
+| Admin API | [Deploy action](https://github.com/grocstock/grocstock-admin-api/actions/workflows/main.yaml) |
+| Store| [Deploy action](https://github.com/grocstock/grocstock-store/actions/workflows/main.yaml) |
+
+
 ## Service status
 [View current status](https://status.grocstock.com)
 
