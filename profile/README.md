@@ -43,10 +43,10 @@ Organise anything, anywhere.
 | Blog| [Deploy action](https://github.com/grocstock/grocstock-blog/actions/workflows/main.yaml) |
 | Web | [Deploy action](https://github.com/grocstock/grocstock-web/actions/workflows/main.yaml) |
 | API| [Deploy action](https://github.com/grocstock/grocstock-api/actions/workflows/main.yaml) |
-| Mongo| [Deploy action](https://github.com/grocstock/grocstock-mongo/actions/workflows/main.yaml) |
-| Types| [Deploy action](https://github.com/grocstock/grocstock-types/actions/workflows/main.yaml) |
-| Common| [Deploy action](https://github.com/grocstock/grocstock-common/actions/workflows/main.yaml) |
-| Integration| [Deploy action](https://github.com/grocstock/grocstock-integration/actions/workflows/main.yaml) |
+| Mongo| [Deploy action](https://github.com/grocstock/grocstock-mongo/actions/workflows/release.yaml) |
+| Types| [Deploy action](https://github.com/grocstock/grocstock-types/actions/workflows/release.yaml) |
+| Common| [Deploy action](https://github.com/grocstock/grocstock-common/actions/workflows/release.yaml) |
+| Integration| [Deploy action](https://github.com/grocstock/grocstock-integration/actions/workflows/release.yaml) |
 | Infra| [Deploy action](https://github.com/grocstock/grocstock-infra/actions) |
 | Admin UI | [Deploy action](https://github.com/grocstock/grocstock-admin-ui/actions/workflows/main.yaml) |
 | Admin API | [Deploy action](https://github.com/grocstock/grocstock-admin-api/actions/workflows/main.yaml) |
